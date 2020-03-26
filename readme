@@ -1,2 +1,7 @@
 该工具为在linux环境下配置开发Jeson Nano的交叉编译环境的工具包。
 工具的version：aarch64-arm-none-eabi-gun-gcc\g++
+安装：
+        1)将下载的 gcc-arm-none-eabi-9-2019-q4-major-aarch64-linux.tar.bz2和gcc-arm-none-eabi-9-2019-q4-major.install放到同一个目录下
+		2)执行如下命令：
+          chmod +x gcc-arm-none-eabi-9-2019-q4-major.install
+          sudo ./gcc-arm-none-eabi-9-2019-q4-major.install
