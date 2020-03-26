@@ -1,0 +1,2 @@
+该工具为在linux环境下配置开发Jeson Nano的交叉编译环境的工具包。
+工具的version：aarch64-arm-none-eabi-gun-gcc\g++
